@@ -1,2 +1,4 @@
+# Sample public application.yml to be used by Spring Cloud Config Server
+
 application:
     message: Configured by Azure Spring Apps
